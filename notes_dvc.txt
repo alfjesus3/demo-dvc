@@ -1,0 +1,2 @@
+## Exploring commands on Windows
+& C:/Users/trash/anaconda3/envs/sysId/python.exe -m dvc get https://github.com/iterative/example-get-started model.pkl
